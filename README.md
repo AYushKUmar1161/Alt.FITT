@@ -19,7 +19,7 @@
 
 > 📌 *Homepage with hero wallpaper and interactive sections*
 
-![Alt.FITT Screenshot](assets/images/Screenshot-2025-06-09-013046.png)
+![Alt.FITT Screenshot](file:///C:/Users/ayush/OneDrive/Desktop/github%20projects/alt.fitt/Screenshot%202025-06-09%20013046.png)
 
 ---
 
